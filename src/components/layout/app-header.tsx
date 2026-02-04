@@ -13,6 +13,7 @@ import {
   Search,
   UtensilsCrossed,
   ClipboardList,
+  QrCode,
 } from 'lucide-react';
 import {
   Breadcrumb,
@@ -41,6 +42,7 @@ import { cn } from '@/lib/utils';
 const navItems = [
   { href: '/dashboard', icon: Home, label: 'Dashboard' },
   { href: '/inventory', icon: Package, label: 'Inventory' },
+  { href: '/scan', icon: QrCode, label: 'Scan' },
   { href: '/recipients', icon: Users, label: 'Recipients' },
   { href: '/allocations', icon: UtensilsCrossed, label: 'Allocations' },
   { href: '/assessment', icon: ClipboardList, label: 'Assessment' },
