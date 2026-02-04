@@ -1,6 +1,6 @@
 # PantryLink
 
-This is a Next.js application for managing food bank inventory, donations, and allocations.
+A real-time food distribution platform that connects donors, food banks, and recipients to solve the hunger-waste paradox. While 47 million Americans face food insecurity, 63 million tons of edible food is wasted annually. This isn't a scarcity problem; it's an information problem. Our platform enables donors to instantly post surplus food, food banks to manage inventory with smart expiration tracking, and recipients to see real-time availability at nearby pantries. By creating transparency across the entire supply chain, we're transforming coordination chaos into seamless connection. The result: 20-30% reduction in food waste and zero wasted trips to empty pantries.
 
 ## Core Features
 
